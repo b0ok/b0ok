@@ -8,6 +8,7 @@ Barber in Mississauga by day, builder the rest of the time. I build the tools my
 - **[CodeLingo](https://github.com/b0ok/CodeLingo)**: Duolingo-style coding app with 581 challenges in Python, JavaScript, SQL and HTML & CSS. Your code actually runs in the browser. Supabase accounts, CI on every PR.
 - **[movie-reservation](https://github.com/b0ok/movie-reservation)**: theatre booking app with seat maps, roles, QR tickets and reporting. Node, Express, SQLite, with tests.
 - **[llm-api](https://github.com/b0ok/llm-api)**: free-tier LLMs from Python, plus a tool-using coding agent and an eval suite.
+- **[integrity-check](https://github.com/b0ok/integrity-check)**: detects tampering with log files using SHA-256 baselines and an HMAC-signed hash store. Python standard library only, with tests and a written threat model.
 
 **Stack:** TypeScript · JavaScript · Python · Node/Express · SQL (Postgres, SQLite) · Supabase · Netlify · Claude
 **Also studied:** Java OOP, digital logic and FPGA (VHDL), PCB design → [hardware-labs](https://github.com/b0ok/hardware-labs)
