@@ -2,6 +2,8 @@
 
 Barber in Mississauga by day, builder the rest of the time. I build the tools my own shop needs, then make them good enough for yours.
 
+**Currently building:** WARRIOR, a workout tracker that plays like an MMO: sets earn XP, you train as a warrior class, and your clan fights another clan every week. In private alpha. [Trailer →](https://t3rrynguy3n.netlify.app/#warrior)
+
 **What I've built**
 
 - **[T3trims](https://github.com/b0ok/T3trims)**: booking site and AI chat receptionist for my barbershop. [Live →](https://t3trims.netlify.app)
